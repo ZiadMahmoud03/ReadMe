@@ -1,6 +1,6 @@
 # ReadMe
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.6.
+This project is for our Human Computer Interactions course. This website is a an online bookstore/club where all tech enthusiast can easily find books related to their favourite tech topics, and connect with others in the indusrty. This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.6.
 
 ## Development server
 
